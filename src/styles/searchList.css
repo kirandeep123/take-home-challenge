@@ -1,0 +1,23 @@
+section {
+  margin-top: 20px;
+}
+.search-input {
+  width: 600px;
+  height: 52px;
+  border: 2px solid var(--grey);
+  border-radius: 7px;
+  padding: 0 40px;
+}
+
+.search-icon {
+  position: absolute;
+  top: 42%;
+  left: 34%;
+  font-size: 24px;
+}
+
+@media (max-width: 400px) {
+  .search-input {
+    width: 250px;
+  }
+}

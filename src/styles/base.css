@@ -1,0 +1,10 @@
+:root {
+  --heading-color: green;
+  --border-color: rgb(226, 99, 80);
+  --section-color: blueviolet;
+  --grey: grey;
+}
+
+.ml-4 {
+  margin-left: 16px;
+}
